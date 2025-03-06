@@ -483,7 +483,7 @@ Implement a function called `wrapAdjective`:
     however you wish.
   - return a `String` of the form "You are ...!" where `...` should be the
     adjective this function received wrapped in visual flair.
-- It should take as parameter a `String` that will be used to create visual flair.
+- It should tke as parameter a `String` that will be used to create visual flair.
 - You may call the parameter whatever you like, but its default value should
   be `"*"`.
 - Call example: `const encouragingPromptFunction = wrapAdjective("!!!")`
